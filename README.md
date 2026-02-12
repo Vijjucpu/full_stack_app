@@ -1,16 +1,53 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Meesho Clone - Full Stack Web App
+![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github&logoColor=white)
+A **Meesho Clone** full-stack shopping web application built using **React.js**.  ##
+It fetches products from [DummyJSON](https://dummyjson.com) API and allows users to: **login, add products to cart, wishlist, and place orders**.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- User login with **email and password**  
+- Display products dynamically from DummyJSON API  
+- **Add to Cart** and **Add to Wishlist** functionality  
+- Remove items from **Cart** or **Wishlist**  
+- **Delivery page** to add address and confirm order  
+- Responsive and modern UI like **Meesho App**
+  
+##  Technologies Used
 
-## React Compiler
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Data:** DummyJSON API  
+- **State Management:** React `useState` & `localStorage`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  #screenshorts
+**Home Page**  
+![Home Page](https://via.placeholder.com/400x300.png?text=Home+Page)
 
-## Expanding the ESLint configuration
+**Cart Page**  
+![Cart Page](https://via.placeholder.com/400x300.png?text=Cart+Page)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Wishlist Page**  
+![Wishlist Page](https://via.placeholder.com/400x300.png?text=Wishlist+Page)
+
+**Delivery Page**  
+![Delivery Page](https://via.placeholder.com/400x300.png?text=Delivery+Page)
+
+## 💻 How to Run Locally
+1. Clone the repository:
+```bash
+git clone https://github.com/Vijjucpu/full_stack_app.git
+
+## NAVIGATE TO THE PROJECT FOLDER:
+```bash
+cd meesho-clone
+
+## INSTALL DEPENDENCIES:
+- nmp install
+
+## START THE DEVELOPMENT SERVER
+- npm run dev
+
+## OPEN YOUR BROWSER AT :
+- http ://localhost:5173/
