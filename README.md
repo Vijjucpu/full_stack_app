@@ -3,8 +3,8 @@
 # Meesho Clone - Full Stack Web App
 ![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github&logoColor=white)
-A **Meesho Clone** full-stack shopping web application built using **React.js**.  ##
-It fetches products from [DummyJSON](https://dummyjson.com) API and allows users to: **login, add products to cart, wishlist, and place orders**.
+A **Meesho Clone** full-stack shopping web application built using **React.js**.  
+## It fetches products from [DummyJSON](https://dummyjson.com) API and allows users to: **login, add products to cart, wishlist, and place orders**.
 
 ## Features
 
@@ -22,7 +22,7 @@ It fetches products from [DummyJSON](https://dummyjson.com) API and allows users
 - **State Management:** React `useState` & `localStorage`
 
 
- ***screenshorts***
+ ## ***screenshorts***
 
 
 **LOGIN PAGE**
