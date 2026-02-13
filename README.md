@@ -23,7 +23,7 @@ It fetches products from [DummyJSON](https://dummyjson.com) API and allows users
 
   #screenshorts
 **Home Page**  
-![Home Page](https://via.placeholder.com/400x300.png?text=Home+Page)
+![Home Page](https://github.com/Vijjucpu/full_stack_app/blob/main/Screenshot%20(11).png?raw=true)
 
 **Cart Page**  
 ![Cart Page](https://via.placeholder.com/400x300.png?text=Cart+Page)
