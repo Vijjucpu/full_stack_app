@@ -39,7 +39,7 @@ It fetches products from [DummyJSON](https://dummyjson.com) API and allows users
 
 
 
-![Wishlist Page](https://via.placeholder.com/400x300.png?text=Wishlist+Page)
+![Wishlist Page](https://github.com/Vijjucpu/full_stack_app/blob/main/Screenshot%20(13).png?raw=true)
 
 
 
