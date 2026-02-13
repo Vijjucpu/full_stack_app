@@ -20,7 +20,16 @@ It fetches products from [DummyJSON](https://dummyjson.com) API and allows users
 - **Frontend:** React.js, HTML, CSS, JavaScript  
 - **Data:** DummyJSON API  
 - **State Management:** React `useState` & `localStorage`
+
+
  #screenshorts
+
+
+**LOGIN PAGE**
+
+
+![Login Page]()
+
 
 
 **Home Page**
@@ -48,7 +57,7 @@ It fetches products from [DummyJSON](https://dummyjson.com) API and allows users
 
 
 
-![Delivery Page](https://via.placeholder.com/400x300.png?text=Delivery+Page)
+![Delivery Page](https://github.com/Vijjucpu/full_stack_app/blob/main/Screenshot%20(14).png?raw=true)
 
 
 
