@@ -8,7 +8,7 @@ It fetches products from [DummyJSON](https://dummyjson.com) API and allows users
 
 ## Features
 
-- User login with **email and password**  
+- User login with **email   
 - Display products dynamically from DummyJSON API  
 - **Add to Cart** and **Add to Wishlist** functionality  
 - Remove items from **Cart** or **Wishlist**  
