@@ -22,13 +22,13 @@ It fetches products from [DummyJSON](https://dummyjson.com) API and allows users
 - **State Management:** React `useState` & `localStorage`
 
 
- #screenshorts
+ ***screenshorts***
 
 
 **LOGIN PAGE**
 
 
-![Login Page]()
+![Login Page](https://github.com/Vijjucpu/full_stack_app/blob/main/Screenshot%20(15).png?raw=true)
 
 
 
