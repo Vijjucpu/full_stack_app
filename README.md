@@ -20,19 +20,38 @@ It fetches products from [DummyJSON](https://dummyjson.com) API and allows users
 - **Frontend:** React.js, HTML, CSS, JavaScript  
 - **Data:** DummyJSON API  
 - **State Management:** React `useState` & `localStorage`
+ #screenshorts
 
-  #screenshorts
-**Home Page**  
+
+**Home Page**
+
+
 ![Home Page](https://github.com/Vijjucpu/full_stack_app/blob/main/Screenshot%20(11).png?raw=true)
 
-**Cart Page**  
-![Cart Page](https://via.placeholder.com/400x300.png?text=Cart+Page)
 
-**Wishlist Page**  
+**Cart Page**
+
+
+![Cart Page](https://github.com/Vijjucpu/full_stack_app/blob/main/Screenshot%20(12).png?raw=true)
+
+
+**Wishlist Page**
+
+
+
 ![Wishlist Page](https://via.placeholder.com/400x300.png?text=Wishlist+Page)
 
+
+
+
 **Delivery Page**  
+
+
+
 ![Delivery Page](https://via.placeholder.com/400x300.png?text=Delivery+Page)
+
+
+
 
 ## 💻 How to Run Locally
 1. Clone the repository:
